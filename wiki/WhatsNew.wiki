@@ -4,4 +4,4 @@
 ==2010-February-24== 
   * The json-sdo project went online on Google Code
   * published documentation draft of version 0.9. *Note:* the documentation is not finished yet. I put it online to give more precisely idea about the goals of this project.
-  * You can play around with a first demo (See link "Demo" on the right!)
+  * You can play around with a first demo (See link "Demo" on Project Home)
