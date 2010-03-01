@@ -1,10 +1,13 @@
 #labels Featured
 =Project News=
 
-==2010-February-25==
+==2010-Feb-28==
+  * Demo update of V 0.9-Beta. Now supports datatype octet string.
+
+==2010-Feb-25==
   * uploaded a new Demo Bugfix V 0.9-Beta [http://json-sdo-demo.appspot.com try it!]
 
-==2010-February-24== 
+==2010-Feb-24== 
   * The json-sdo project went online on Google Code
   * published documentation draft of version 0.9. *Note:* the documentation is not finished yet. I put it online to give more precisely idea about the goals of this project.
   * You can play around with a first demo (See link "Demo" on Project Home)
