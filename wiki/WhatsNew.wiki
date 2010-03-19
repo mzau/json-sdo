@@ -1,6 +1,10 @@
 #labels Featured
 =Project News=
 
+==2010-Mar-18==
+ * Demo update of V 0.9-Beta. Demonstrates all features of Version 0.9 of the (upcoming) JSONsdo spec.
+ * Updated the working draft spec version 0.9. Should contain now all informations, but requires some more review. See link "JsonSDO Draft 0.9" on Project Home!
+
 ==2010-Feb-28==
   * Demo update of V 0.9-Beta. Now supports datatype octet string.
 
