@@ -1,6 +1,9 @@
 #labels Featured
 =Project News=
 
+==2010-Apr-14==
+ * JSONsdo V 0.9 Demo with Javascript code documentation. Contains a tiny service API  (see [http://json-sdo-demo.appspot.com demo] namespace "CAN"). Coming soon: JSONsdo specification Draft 0.9.
+
 ==2010-Mar-18==
  * Demo update of V 0.9-Beta. Demonstrates all features of Version 0.9 of the (upcoming) JSONsdo spec.
  * Updated the working draft spec version 0.9. Should contain now all informations, but requires some more review. See link "JsonSDO Draft 0.9" on Project Home!
