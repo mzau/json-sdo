@@ -1,6 +1,9 @@
 #labels Featured
 =Project News=
 
+==2010-Apr-16==
+ * JSONsdo specification Version 0.9 is online. This is a version freeze. Future changes will be identified by a different version number. See link "Demo" on the Project Home page.
+
 ==2010-Apr-14==
  * JSONsdo V 0.9 Demo with Javascript code documentation. Contains a tiny service API  (see [http://json-sdo-demo.appspot.com demo] namespace "CAN"). Coming soon: JSONsdo specification Draft 0.9.
 
