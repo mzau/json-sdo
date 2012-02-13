@@ -1,6 +1,9 @@
 #labels Featured
 =Project News=
 
+==2012-Feb-12==
+  * JSONsdo specification revised: Version 0.9-1. Fixed unbalanced curly braces in response for method "system.manage.property.get". Demo fixed accordingly.
+
 ==2010-Apr-16==
  * JSONsdo specification Version 0.9 is online. This is a version freeze. Future changes will be identified by a different version number. See link "Demo" on the Project Home page.
 
