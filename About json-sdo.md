@@ -1,4 +1,4 @@
-This project specifies a method to communicate by a JSON based protocol with CANopen or EtherCAT fieldbus devices. The software coming along demonstrates a Javascript based client and a Java servlet which represents a simulated DS 301 device.
+This project specifies a method to communicate by a JSON based protocol with CANopen or EtherCAT fieldbus devices. The software coming along [demonstrates](http://json-sdo-demo.appspot.com) a Javascript based client and a Java servlet which represents a simulated DS 301 device.
 
 
 Main features
