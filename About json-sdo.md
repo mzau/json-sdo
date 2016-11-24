@@ -7,4 +7,4 @@ This project specifies a method to communicate by a JSON based protocol with CAN
   * simple programming in Javascript
   * low firmware overhead suited for 8 or 16 bit architectures
 
-[jsonSDO specification Draft 0.9] https://docs.google.com/document/d/1j3yUVEmsxnOBBB19LbzMEYxscYk4e9PyDWWQKRhO504/edit?usp=sharing
+[jsonSDO specification Draft 0.9](https://docs.google.com/document/d/1j3yUVEmsxnOBBB19LbzMEYxscYk4e9PyDWWQKRhO504/edit?usp=sharing)
